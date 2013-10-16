@@ -1,4 +1,4 @@
-package com.example.repeater;
+package com.mozeeza.repeater;
 
 import android.os.Bundle;
 import android.app.Activity;
